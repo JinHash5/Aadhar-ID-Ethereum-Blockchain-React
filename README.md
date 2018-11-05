@@ -1,7 +1,7 @@
 # FSociety
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-Submission for KJSCE Hackathon 2018 [ADHAAR ID]
+Submission for KJSCE Hackathon 2018 [AADHAR ID]
 
 
 
